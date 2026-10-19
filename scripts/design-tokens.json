@@ -1,0 +1,114 @@
+{
+  "light": {
+    "canvas": {
+      "value": "#F6F7F9"
+    },
+    "surface": {
+      "value": "#FFFFFF"
+    },
+    "inset": {
+      "value": "#F0F2F5"
+    },
+    "chrome": {
+      "value": "rgba(247,248,251,0.86)"
+    },
+    "ink": {
+      "value": "#20232B"
+    },
+    "muted": {
+      "value": "#596170"
+    },
+    "line": {
+      "value": "#E1E4EA"
+    },
+    "controlLine": {
+      "value": "#788293"
+    },
+    "accent": {
+      "value": "#1D4ED8"
+    },
+    "accentSoft": {
+      "value": "#E8EFFF"
+    },
+    "action": {
+      "value": "#2563EB"
+    },
+    "onAction": {
+      "value": "#FFFFFF"
+    },
+    "actionHover": {
+      "value": "#1D4ED8"
+    },
+    "secondary": {
+      "value": "#1D4ED8"
+    },
+    "secondarySoft": {
+      "value": "#E8EFFF"
+    },
+    "success": {
+      "value": "#08734F"
+    },
+    "successSoft": {
+      "value": "#E4F5ED"
+    },
+    "warning": {
+      "value": "#92400E"
+    },
+    "warningSoft": {
+      "value": "#FFF2D5"
+    },
+    "danger": {
+      "value": "#B42332"
+    },
+    "dangerSoft": {
+      "value": "#FDE9ED"
+    },
+    "focus": {
+      "value": "#1D4ED8"
+    },
+    "overlay": {
+      "value": "rgba(20,24,35,0.42)"
+    },
+    "shadow": {
+      "value": "0 4px 18px rgba(22,29,45,0.05)"
+    }
+  },
+  "radius": {
+    "none": {
+      "value": "0px"
+    },
+    "2xs": {
+      "value": "2px"
+    },
+    "xs": {
+      "value": "4px"
+    },
+    "sm": {
+      "value": "8px"
+    },
+    "md": {
+      "value": "12px"
+    },
+    "lg": {
+      "value": "16px"
+    },
+    "xl": {
+      "value": "20px"
+    },
+    "2xl": {
+      "value": "24px"
+    },
+    "3xl": {
+      "value": "32px"
+    },
+    "4xl": {
+      "value": "40px"
+    },
+    "pill": {
+      "value": "9999px"
+    },
+    "full": {
+      "value": "9999px"
+    }
+  }
+}

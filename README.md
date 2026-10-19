@@ -4,22 +4,25 @@
 
 把日常想法做成用得上的小工具。关注桌面应用、Web 体验与设计系统，也持续整理机器学习与深度学习笔记。
 
-```text
-trevv@workspace:~$ cat interests.txt
-  build     桌面工具 · Web 应用 · 自动化
-  design    组件 · 主题 · 动效 · 可用性
-  learn     机器学习 · 深度学习 · 数学笔记
-```
 
-### Selected work
+
+### 正在打磨的作品
+
+[![设计系统：卡片、标签与设计变量](assets/design-preview.svg)](https://github.com/trevv731-hue/modern-ai-design-system)
 
 **[Modern AI Design System ↗](https://github.com/trevv731-hue/modern-ai-design-system)**  
 跨平台设计系统，从语义主题、Design Tokens 到 React 组件、动效与无障碍规范。  
 <sub>DESIGN SYSTEM · REACT · CSS</sub>
 
+[![寸光：计时与时间轴视觉示意，非真实记录](assets/time-preview.svg)](https://github.com/trevv731-hue/cunguang-time-tracker)
+
 **[寸光 · Time Tracker ↗](https://github.com/trevv731-hue/cunguang-time-tracker)**  
 轻量时间记录工具，用计时、分类、时间轴与统计看见时间的去向。  
 <sub>WEB APP · LOCAL STORAGE</sub>
+
+---
+
+### 工具与学习
 
 **[TFT Recorder ↗](https://github.com/trevv731-hue/tft-recorder)**  
 云顶之弈战绩桌面助手：自动记录、数据分析与对局查询。  
