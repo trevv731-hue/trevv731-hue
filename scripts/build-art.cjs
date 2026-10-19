@@ -30,7 +30,7 @@ s+=rect(606,173,104,27,c.accent,13,'none')+text(622,191,'Components',11,c.onActi
 s+=rect(586,238,161,144)+text(606,268,'BUILD',12,c.muted,600)+rect(607,286,118,66,c.canvas,12)+text(636,328,'</>',29,c.accent,600);
 s+=rect(763,238,161,144)+text(783,268,'LEARN',12,c.muted,600);
 s+='<g fill="none" stroke="'+c.accent+'" stroke-width="2"><path d="M790 348V304M813 348V319M836 348V289M859 348V310M882 348V281" stroke-linecap="round"/></g>';
-save('hero-light.svg',s);
+save('workspace-light.svg',s);
 s=start(244,'设计系统组件预览：卡片、按钮、标签与色彩角色');
 s+=rect(.5,.5,959,243,c.canvas,r('xl'))+rect(20,20,292,204)+text(42,52,'01 / COMPONENTS',12,c.muted,600);
 s+=rect(42,73,248,70,c.surface,12)+rect(56,87,40,40,c.accentSoft,12,'none')+text(66,115,'Aa',20,c.accent,600)+text(110,106,'Semantic UI',17,c.ink,600)+text(110,128,'Consistent by design',12,c.muted);

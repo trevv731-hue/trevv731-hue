@@ -1,4 +1,4 @@
-<img alt="Hi, I'm trevv. Build, learn, refine. Desktop apps, web tools, and design systems." src="assets/hero-light.svg" width="100%">
+<img alt="Hi, I'm trevv. Build, learn, refine. Desktop apps, web tools, and design systems." src="assets/workspace-light.svg" width="100%">
 
 <br>
 
