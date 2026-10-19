@@ -8,3 +8,5 @@ Rebuild: node scripts/build-art.cjs
 Refresh tokens from a local design-system checkout: node scripts/build-art.cjs /path/to/ui-design-system
 
 The checked-in token snapshot makes a clean clone independently rebuildable. Theme choice is fixed light for this profile. GitHub shell theme remains a browser/account preference.
+
+Current revision: compact name banner and four native project links. Removed showcase illustrations, slogans, category labels, and repeated explanations following user feedback.
